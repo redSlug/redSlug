@@ -4,7 +4,7 @@ I am a creative and collaborative Software Engineer and hacker in New York City.
 
 I am currently wrapping up a batch at the Recurse Center where I am exploring my next steps as a programmer.
 
-- 🔭 I’m currently working on a [tiles game](https://github.com/redSlug/tiles)
+- 🔭 I’m currently working on a [tiles game](https://github.com/redSlug/tiles).
 - 🌱 I’m currently taking a sabbatical. Read more about my [experience here](https://medium.com/@bdettmer/my-winter-at-the-recurse-center-return-statement-adf705e71a03).
 
 <!--
