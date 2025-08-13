@@ -1,6 +1,6 @@
 ## Hi, I'm Bradley 👋
 
-I am a creative and collaborative Software Engineer and hacker in New York City. I'm a Recurse Center alum and believe in continuously growing and sharing information in order to help others grow. I enjoy hiking, running, yoga, and spending time with my friends. 
+I am a creative and collaborative Software Engineer in New York City. I'm a Recurse Center alum and believe in continuously growing and sharing information in order to help others grow. I enjoy hiking, running, yoga, and spending time with my friends. 
 
 I am currently wrapping up a batch at the Recurse Center where I am exploring my next steps as a programmer.
 
